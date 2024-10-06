@@ -1,0 +1,61 @@
+[
+
+
+{
+      "date": "11-22-1963",
+      "title": "Assassination of JFK",
+      "description": "President John F. Kennedy is assassinated in Dallas, Texas, profoundly impacting American politics and society."
+    },
+    {
+      "date": "07-20-1969",
+      "title": "Apollo 11 Moon Landing",
+      "description": "Apollo 11 lands on the Moon; Neil Armstrong becomes the first person to walk on the lunar surface."
+    },
+    {
+      "date": "12-26-04",
+      "title": "Indian Ocean Tsunami",
+      "description": "A massive undersea earthquake triggers a tsunami in the Indian Ocean, causing widespread devastation and loss of life in several countries."
+    },
+    {
+      "date": "08-28-63",
+      "title": "I Have a Dream Speech",
+      "description": "Martin Luther King Jr. delivers his 'I Have a Dream' speech during the March on Washington for Jobs and Freedom, a pivotal moment in the Civil Rights Movement."
+    },
+    
+    {
+      "date": "04-12-1961",
+      "title": "First Human in Space",
+      "description": "Yuri Gagarin becomes the first human to travel into space aboard Vostok 1, a milestone in the Space Race."
+    },
+    {
+      "date": "11-09-1989",
+      "title": "Fall of the Berlin Wall",
+      "description": "The Berlin Wall falls, symbolizing the end of the Cold War and the reunification of Germany."
+    },
+    {
+      "date": "01-01-1994",
+      "title": "NAFTA Takes Effect",
+      "description": "The North American Free Trade Agreement (NAFTA) is implemented, promoting trade between the U.S., Canada, and Mexico."
+    },
+    {
+      "date": "12-26-2004",
+      "title": "Indian Ocean Tsunami",
+      "description": "A massive undersea earthquake triggers a tsunami in the Indian Ocean, leading to widespread devastation and loss of life."
+    },
+    {
+      "date": "04-20-2010",
+      "title": "Deepwater Horizon Oil Spill",
+      "description": "An offshore drilling rig explodes, leading to one of the largest environmental disasters in U.S. history."
+    },
+    {
+      "date": "11-08-2016",
+      "title": "Election of Donald Trump",
+      "description": "Donald Trump is elected as the 45th President of the United States, signaling a shift in American politics."
+    },
+    {
+      "date": "01-20-2021",
+      "title": "Inauguration of Joe Biden",
+      "description": "Joe Biden is inaugurated as the 46th President of the United States, emphasizing unity and tackling the COVID-19 pandemic."
+    },
+]
+
